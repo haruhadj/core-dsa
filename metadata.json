@@ -1,0 +1,6 @@
+{
+  "name": "TypeScript DSA Study Hub",
+  "description": "The ultimate interactive companion for learning and mastering Data Structures and Algorithms with TypeScript code templates, visualizers, practice arenas, and an AI-powered DSA coach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
